@@ -1,4 +1,4 @@
-# KnapSack_tmp
+# MaxWeightTeamProblem
 Small Python program to solve a problem where there are n players in a team and we want to get the maximum weight possible for the team, within a given weight threshold.
 
 The solution uses a dynamic programming approach based on the Knapack 0-1 problem:
